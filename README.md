@@ -14,7 +14,7 @@ This dataset is about car driver behavior detection. It is a field of research t
 
 ## 2. Which structures?
 
-There are several types of CNN structures that are used in deep learning-based image analysis. In this project, three of them are being used. AlexNet, VGG16, and ResNet. These are some of the most popular CNN structures used in image analysis tasks.
+Several types of CNN architectures are used in deep learning-based image analysis. In this project, three of them are being used. AlexNet, VGG16, and ResNet. These are some of the most popular CNN structures used in image analysis tasks.
 
 ## 3. Why CNN?
 
@@ -22,4 +22,4 @@ CNN (Convolutional Neural Network) is a deep learning-based method that can be u
 
 ## 4. Significance of this topic
 
-Data behavior detection is important because it helps to identify potential cybersecurity threats by tracking user behavior and data access activities. By analyzing both user behavior and data access activities, a behavior analytics tool can create a contextual behavior baseline to help discern behaviors that are normal from those that are not and accurately identify critical data threats.
+Driver behavior detection is important because it helps to identify potential cybersecurity threats by tracking user behavior and data access activities. By analyzing both user behavior and data access activities, a behavior analytics tool can create a contextual behavior baseline to distinguish normal from anomalous behaviors and accurately identify critical data threats.
